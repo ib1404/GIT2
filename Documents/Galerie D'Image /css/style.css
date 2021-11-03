@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+img{
+	width: calc(1920px/5); /* largeur */
+	height: calc(1080px/5); /* hauteur */
+}
+.container{
+	margin: 10px 0 0 27%;   /* marge */
+	padding: 50px; 
+	width: 35%;
+	border: 100px groove rgba(0, 0, 0, 0) ;
+	box-shadow: 2px 2px 5px black;
+}
+
+h1{
+	text-align: center;
+}
